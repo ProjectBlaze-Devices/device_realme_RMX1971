@@ -38,5 +38,6 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 # Gapps
 WITH_GAPPS := true
 
-# Maintainer Name
+# Official
+BLAZE_BUILD_TYPE := OFFICIAL
 BLAZE_MAINTAINER := AnilShebin
