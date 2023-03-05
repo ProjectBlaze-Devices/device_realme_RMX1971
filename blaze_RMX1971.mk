@@ -35,5 +35,8 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME="RMX1971" \
     TARGET_DEVICE="RMX1971"
 
+# Gapps
+WITH_GAPPS := true
+
 # Maintainer Name
 BLAZE_MAINTAINER := AnilShebin
